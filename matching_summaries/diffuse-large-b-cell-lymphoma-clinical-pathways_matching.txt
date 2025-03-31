@@ -1,0 +1,15 @@
+PATHWAY: diffuse-large-b-cell-lymphoma-clinical-pathways
+
+# Diffuse Large B-Cell Lymphoma (DLBCL) Clinical Pathway
+
+**Diagnosis:** Excisional or core needle biopsy with histopathological assessment and immunohistochemistry. Cell of Origin determination via Hans algorithm (CD10, MUM1, BCL6). Double Expressor Status assessment via BCL2, MYC IHC. FISH testing for MYC, BCL2, BCL6 rearrangements. Conditional testing includes EBER in-situ hybridization, Ki67, Cyclin D1 IHC, CD30 IHC, IRF4 rearrangement, TdT and CD34 IHC, CD5 and cyclin D1 IHC.
+
+**Staging/Classification:** Limited Stage (I-II, non-bulky), Limited Stage with Bulky Disease (≥7.5 cm), Advanced Stage (III-IV). Risk stratification by IPI score (0-1, 2-5), CNS IPI score, age (≤60 vs >60), ECOG PS (0-1 vs ≥2), germinal center vs non-GCB origin, time to relapse (<12 months vs ≥12 months).
+
+**Laboratory Requirements:** CBC, CMP, LDH, uric acid, phosphorus, Hepatitis C Ab, Hepatitis B sAg, Hepatitis B sAb, Hepatitis B cAb, HIV, β-HCG. PET/CT imaging. Echocardiogram or MUGA scan. Bone marrow biopsy in select cases.
+
+**First-line Treatment:** R-CHOP (Rituximab, Cyclophosphamide, Doxorubicin, Vincristine, Prednisone) for 4-6 cycles based on stage. Polatuzumab-R-CHP for non-GCB advanced stage. R-COP for inadequate cardiac function. DA-EPOCH-R for unfavorable patients. CNS prophylaxis with high-dose or intrathecal methotrexate for high CNS IPI. Radiation (30 Gy) for select cases.
+
+**Relapsed/Refractory Treatment:** Rituximab-gemcitabine-oxaliplatin, CAR T-cell therapy, autologous stem cell transplant, lenalidomide-tafasitamab, rituximab-bendamustine and polatuzumab, glofitamab + obinutuzumab.
+
+**Exclusions:** Double hit/high grade B-cell lymphomas, testicular DLBCL, primary mediastinal B-cell lymphoma, primary CNS lymphoma.
